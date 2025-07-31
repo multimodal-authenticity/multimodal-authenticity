@@ -95,8 +95,8 @@ This repository implements and evaluates **16 models** structured into four cate
 
 ```bash
 # Clone the repository
-git clone https://github.com/multimodal-influencer-XXXX/Multimodal-XXXXX-empathy.git
-cd Multimodal-Influencer-XXXXX
+git clone https://github.com/multimodal-authenticity/multimodal-authenticity](https://github.com/multimodal-authenticity/multimodal-authenticity).git
+cd multimodal-authenticity
 
 ### Run All Evaluation Scripts
 
