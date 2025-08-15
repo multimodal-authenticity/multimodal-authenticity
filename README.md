@@ -4,7 +4,7 @@
 
 This repository contains the code and data used in the research paper *" Title  "*.
 
-Our work builds and compares **16 deep learning models**, including (1) unimodal, bimodal, and trimodal MulT-based models, (2) trimodal MulT-based models with text/audio/image crossmodal, and (3) benchmark fusion models (e.g., LF-LSTM, EF-LSTM, TFN, LMF, MFN).
+Our work builds and compares **16 multimodal machine learning (MMML) models**, including (1) unimodal, bimodal, and trimodal MulT-based models, (2) trimodal MulT-based models with text(t)/audio(a)/image(i) crossmodal, and (3) benchmark fusion models (e.g., LF-LSTM, EF-LSTM, TFN, LMF, MFN).
 
 We introduce a multimodal authenticity measurement pipeline that captures **temporal, semantic, and crossmodal signals** from influencer content.
 
@@ -13,10 +13,10 @@ We introduce a multimodal authenticity measurement pipeline that captures **temp
 ## Key Findings
 
 - **Panel A (MulT Unimodal vs. Multimodal Comparison)**:  
-  Incorporating **audio and image modalities** into the language-only MulT model significantly improves prediction performance. Accuracy increased by **8.62%**, based on a two-tailed t-test.
+  Incorporating **audio and image modalities** into the language-only MulT model significantly improves prediction performance. 
 
 - **Panel B (Crossmodal Interaction Effects)**:  
-  Crossmodal interaction mechanisms—whether **bimodal or trimodal (text-audio-image)**—significantly outperform non-interaction counterparts. This suggests that **inter-modality context modeling** plays a vital role in empathy detection.
+  Crossmodal interaction mechanisms—whether **bimodal or trimodal (text-audio-image)**—significantly outperform non-interaction counterparts. This suggests that **inter-modality context modeling** plays a vital role in authenticity detection.
 
 - **Panel C (Comparison with Benchmark Models)**:  
   Our full MulT model with **trimodal crossmodal integration (A11_MulT_tai_Crossmodal_TIA)** consistently outperforms baseline models (e.g., LF-LSTM, EF-LSTM, TFN, LMF, MFN) across all metrics: **Accuracy**, **F1 score**, **MAE**, and **Correlation**.
