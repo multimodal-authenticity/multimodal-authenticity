@@ -78,7 +78,7 @@ This repository implements and evaluates **16 models** structured into four cate
 | A8_MulT_tai_Crossmodal_T | Crossmodal focus: Text    | Text-focused interaction                     |
 | A9_MulT_tai_Crossmodal_A | Crossmodal focus: Audio   | Audio-focused interaction                    |
 | A10_MulT_tai_Crossmodal_I | Crossmodal focus: Image   | Image-focused interaction                    |
-| A11_MulT_tai_Crossmodal_TIA | Full Crossmodal (TIA) | Best-performing trimodal interaction model   |
+| A11_MulT_tai_Crossmodal_TIA | Full Crossmodal (TIA) | Trimodal(Text & Audio & Image) interaction model (Best-performing)  |
 
 ### 4. Benchmark Fusion Models
 
