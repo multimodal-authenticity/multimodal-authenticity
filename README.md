@@ -1,9 +1,9 @@
-# To Authenticity to Sale: A Multimethod Investigation of Predictive AI, Generative AI and Experiments
+# Too Much Authenticity to Sell: A Multimethod Investigation of Predictive AI, Generative AI and Experiments
 
 
 ## Overview
 
-This repository contains the code and data used in the  paper *" To Authenticity to Sale: A Multimethod Investigation of Predictive AI, Generative AI and Experiments
+This repository contains the code and data used in the  paper *" Too Much Authenticity to Sell: A Multimethod Investigation of Predictive AI, Generative AI and Experiments
 "*.
 
 This work builds and compares **16 multimodal machine learning (MMML) models**, including (1) unimodal, bimodal, and trimodal MulT-based models, (2) trimodal MulT-based models with text(t)/audio(a)/image(i) crossmodal, and (3) benchmark fusion models (e.g., LF-LSTM, EF-LSTM, TFN, LMF, MFN).
