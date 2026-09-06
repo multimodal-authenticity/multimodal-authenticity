@@ -1,4 +1,4 @@
-# GenAI Supported Measure of Authenticity in Tiktok Videos: How and When Authenticity Sells in Social Media Influencer Marketing
+## GenAI Supported Measure of Authenticity in Tiktok Videos: How and When Authenticity Sells in Social Media Influencer Marketing
 
 
   
