@@ -1,10 +1,10 @@
-## GenAI Supported Measure of Authenticity in Tiktok Videos: How and When Authenticity Sells in Social Media Influencer Marketing
+## Too Authentic to Sell in Influencer Marketing? Evidence from TikTok Videos
 
 
 
 ## Overview
 
-This repository contains the code and data used in the  paper *"GenAI Supported Measure of Authenticity in Tiktok Videos: How and When Authenticity Sells in Social Media Influencer Marketing"*.
+This repository contains the code and data used in the  paper *"Too Authentic to Sell in Influencer Marketing? Evidence from TikTok Videos"*.
 
 This work builds and compares **16 multimodal machine learning (MMML) models**, including (1) unimodal, bimodal, and trimodal MulT-based models, (2) trimodal MulT-based models with text(t)/audio(a)/image(i) crossmodal, and (3) benchmark fusion models (e.g., LF-LSTM, EF-LSTM, TFN, LMF, MFN).
 
